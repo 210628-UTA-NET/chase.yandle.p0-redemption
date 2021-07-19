@@ -1,0 +1,38 @@
+[
+  {
+    "cName": "Chase Yandle",
+    "cStreet": "203 Church St",
+    "cCity": "Morrisville",
+    "cState": "NC",
+    "cPhone": "919-623-3658",
+    "cEmail": "cayandle@live.com",
+    "cBDay": "09-11-1992",
+    "cAge": 28,
+    "cOrders": null,
+    "cSystems": [
+      "Playstation 3",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "cStoreAddedAt": null,
+    "cID": "00000001"
+  },
+  {
+    "cName": "John Doe",
+    "cStreet": "101 Mayberry",
+    "cCity": "Cary",
+    "cState": "NC",
+    "cPhone": "919-461-5491",
+    "cEmail": "johndoe1@aol.com",
+    "cBDay": "09-11-1992",
+    "cAge": 28,
+    "cOrders": null,
+    "cSystems": [
+      "Playstation 3",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "cStoreAddedAt": "0000",
+    "cID": "00000001"
+  }
+]
